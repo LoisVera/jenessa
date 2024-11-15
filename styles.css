@@ -1,0 +1,21 @@
+*{
+margin:0;
+font-family: system-ui;
+}
+header {
+    margin:0;
+}
+h1 {
+    background-color:rgb(91, 85, 215);
+    color:white;
+    padding:20px;
+    text-align: center;
+}
+main {
+    text-align: center;
+
+}
+footer {
+    text-align: center;
+    padding:40px;
+}
